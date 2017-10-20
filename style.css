@@ -1,0 +1,51 @@
+
+
+
+h1
+{
+	color:blue;
+	text-align: center;
+}
+
+p
+{
+	color: orange;
+}
+a{
+color:red;
+text-decoration: none;
+font-weight: bold;
+}
+
+.footertext
+{
+
+	color:white;
+	text-align: center;
+}
+
+#bolded
+{
+	font-weight: bold;
+}
+
+@media only screen and (max-width: 2000px) {
+    body {
+        background-color: black;
+        color:white;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: lightblue;
+        color:white;
+    }
+}
+
+
+
+
+
+
+
